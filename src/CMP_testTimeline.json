@@ -45,52 +45,6 @@
                                     "start_time": {
                                         "OTIO_SCHEMA": "RationalTime.1", 
                                         "rate": 29.97, 
-                                        "value": 2258
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": "Jacob Rules"
-                                    }
-                                }, 
-                                "name": "VFX"
-                            }, 
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 2360
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": null
-                                    }
-                                }, 
-                                "name": "VFX"
-                            }, 
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
                                         "value": 324
                                     }
                                 }, 
@@ -140,100 +94,7 @@
                     {
                         "OTIO_SCHEMA": "Clip.1", 
                         "effects": [], 
-                        "markers": [
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 1270
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": "Stabalize"
-                                    }
-                                }, 
-                                "name": "VFX"
-                            }, 
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 721
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": "color flash"
-                                    }
-                                }, 
-                                "name": "VFX"
-                            }, 
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 502
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": "color flash"
-                                    }
-                                }, 
-                                "name": "VFX"
-                            }, 
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 111
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": "corrupt frame"
-                                    }
-                                }, 
-                                "name": "VFX"
-                            }
-                        ], 
+                        "markers": [], 
                         "media_reference": {
                             "OTIO_SCHEMA": "ExternalReference.1", 
                             "available_range": {
@@ -318,12 +179,12 @@
                                 "OTIO_SCHEMA": "TimeRange.1", 
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 13440
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 0
                                 }
                             }, 
@@ -343,7 +204,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 1073
+                                "value": 1073.0
                             }
                         }
                     }, 
@@ -396,12 +257,12 @@
                                 "OTIO_SCHEMA": "TimeRange.1", 
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 13440
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 0
                                 }
                             }, 
@@ -421,14 +282,61 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 1469
+                                "value": 1469.0
                             }
                         }
                     }, 
                     {
                         "OTIO_SCHEMA": "Clip.1", 
                         "effects": [], 
-                        "markers": [], 
+                        "markers": [
+                            {
+                                "OTIO_SCHEMA": "Marker.2", 
+                                "color": "RED", 
+                                "marked_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1", 
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1", 
+                                        "rate": 1, 
+                                        "value": 0
+                                    }, 
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1", 
+                                        "rate": 29.97, 
+                                        "value": 1161
+                                    }
+                                }, 
+                                "metadata": {
+                                    "fcp_xml": {
+                                        "comment": "glitch"
+                                    }
+                                }, 
+                                "name": "VFX"
+                            }, 
+                            {
+                                "OTIO_SCHEMA": "Marker.2", 
+                                "color": "RED", 
+                                "marked_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1", 
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1", 
+                                        "rate": 1, 
+                                        "value": 0
+                                    }, 
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1", 
+                                        "rate": 29.97, 
+                                        "value": 1113
+                                    }
+                                }, 
+                                "metadata": {
+                                    "fcp_xml": {
+                                        "comment": "color flash"
+                                    }
+                                }, 
+                                "name": "VFX"
+                            }
+                        ], 
                         "media_reference": {
                             "OTIO_SCHEMA": "ExternalReference.1", 
                             "available_range": {
@@ -800,7 +708,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 4753
+                                "value": 4748
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -839,12 +747,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 3493
+                                "value": 3498
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 5
+                                "value": 0
                             }
                         }
                     }, 
@@ -858,12 +766,12 @@
                                 "OTIO_SCHEMA": "TimeRange.1", 
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 13440
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 0
                                 }
                             }, 
@@ -878,12 +786,12 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 397
+                                "value": 395
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 1443
+                                "value": 1073.0
                             }
                         }
                     }, 
@@ -898,7 +806,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 286
+                                "value": 288
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -917,12 +825,12 @@
                                 "OTIO_SCHEMA": "TimeRange.1", 
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 13440
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
+                                    "rate": 29.0, 
                                     "value": 0
                                 }
                             }, 
@@ -931,7 +839,7 @@
                             "target_url": "file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov"
                         }, 
                         "metadata": {}, 
-                        "name": "CMP_JS2_002", 
+                        "name": "Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
@@ -942,7 +850,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 1469
+                                "value": 1469.0
                             }
                         }
                     }, 
@@ -1126,7 +1034,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 1294705
+                                    "value": 0
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1165,7 +1073,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 1294705
+                                    "value": 0
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1204,7 +1112,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 1294705
+                                    "value": 0
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -6920,7 +6828,7 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 18867
+                        "value": 12808
                     }
                 }, 
                 "metadata": {
@@ -6928,7 +6836,7 @@
                         "comment": null
                     }
                 }, 
-                "name": "SEAM!!!"
+                "name": "END of Offset KEYFRAMES"
             }, 
             {
                 "OTIO_SCHEMA": "Marker.2", 
@@ -6943,7 +6851,7 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 126
+                        "value": 2705
                     }
                 }, 
                 "metadata": {
@@ -6989,98 +6897,6 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 5353
-                    }
-                }, 
-                "metadata": {
-                    "fcp_xml": {
-                        "comment": null
-                    }
-                }, 
-                "name": null
-            }, 
-            {
-                "OTIO_SCHEMA": "Marker.2", 
-                "color": "RED", 
-                "marked_range": {
-                    "OTIO_SCHEMA": "TimeRange.1", 
-                    "duration": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 1, 
-                        "value": 0
-                    }, 
-                    "start_time": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 29.97, 
-                        "value": 2705
-                    }
-                }, 
-                "metadata": {
-                    "fcp_xml": {
-                        "comment": null
-                    }
-                }, 
-                "name": null
-            }, 
-            {
-                "OTIO_SCHEMA": "Marker.2", 
-                "color": "RED", 
-                "marked_range": {
-                    "OTIO_SCHEMA": "TimeRange.1", 
-                    "duration": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 1, 
-                        "value": 0
-                    }, 
-                    "start_time": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 29.97, 
-                        "value": 5399
-                    }
-                }, 
-                "metadata": {
-                    "fcp_xml": {
-                        "comment": null
-                    }
-                }, 
-                "name": null
-            }, 
-            {
-                "OTIO_SCHEMA": "Marker.2", 
-                "color": "RED", 
-                "marked_range": {
-                    "OTIO_SCHEMA": "TimeRange.1", 
-                    "duration": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 1, 
-                        "value": 0
-                    }, 
-                    "start_time": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 29.97, 
-                        "value": 456
-                    }
-                }, 
-                "metadata": {
-                    "fcp_xml": {
-                        "comment": null
-                    }
-                }, 
-                "name": null
-            }, 
-            {
-                "OTIO_SCHEMA": "Marker.2", 
-                "color": "RED", 
-                "marked_range": {
-                    "OTIO_SCHEMA": "TimeRange.1", 
-                    "duration": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 1, 
-                        "value": 0
-                    }, 
-                    "start_time": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 29.97, 
                         "value": 6444
                     }
                 }, 
@@ -7104,30 +6920,7 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 2801
-                    }
-                }, 
-                "metadata": {
-                    "fcp_xml": {
-                        "comment": null
-                    }
-                }, 
-                "name": null
-            }, 
-            {
-                "OTIO_SCHEMA": "Marker.2", 
-                "color": "RED", 
-                "marked_range": {
-                    "OTIO_SCHEMA": "TimeRange.1", 
-                    "duration": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 1, 
-                        "value": 0
-                    }, 
-                    "start_time": {
-                        "OTIO_SCHEMA": "RationalTime.1", 
-                        "rate": 29.97, 
-                        "value": 7595
+                        "value": 5399
                     }
                 }, 
                 "metadata": {
@@ -7173,6 +6966,98 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
+                        "value": 7595
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 126
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 18867
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": "SEAM!!!"
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 2801
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
                         "value": 5386
                     }
                 }, 
@@ -7196,7 +7081,7 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 12808
+                        "value": 456
                     }
                 }, 
                 "metadata": {
@@ -7204,7 +7089,30 @@
                         "comment": null
                     }
                 }, 
-                "name": "END of Offset KEYFRAMES"
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 5353
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
             }
         ], 
         "metadata": {}, 

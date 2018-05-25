@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Button, Table } from "reactstrap";
 import { CSVLink, CSVDownload } from "react-csv";
-const otio_json = require("./CMP_testTimeline.json");
+const otio_json = require("G:/Users/Jacob/c1_otio/src/CMP_testTimeline.json");
 
 class App extends React.Component {
   constructor(props) {
