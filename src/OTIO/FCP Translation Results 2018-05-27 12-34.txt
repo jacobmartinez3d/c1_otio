@@ -1,0 +1,22 @@
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 1: Effect <Offset> on Clip <CMP_JS2D1S3_v001_right.3000.png> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 1: Effect <Offset> on Clip <CMP_JS2__005_v001_right.1059.png> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 1: Effect <Offset> on Clip <CMP_JS3_000_v001_right.0001.png> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 1: Effect <Offset> on Clip <Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 2: Effect <Offset> on Clip <CMP_JS2D1S3_v001_left.3000.png> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 2: Effect <Offset> on Clip <CMP_JS2__005_v001_left.1059.png> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 2: Effect <Offset> on Clip <CMP_JS3_000_v001_left.0001.png> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 2: Effect <Offset> on Clip <Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 2: Effect <Transform> on Clip <logo_swipe/logo.aep> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 3: Effect <Transform> on Clip <logo_swipe/logo.aep> not translated.
+Translation issue:
+	Sequence <Chimp_Final Cut_SWAPS_6k> at , video track 3: Effect <VR Plane to Sphere> on Clip <Project-Chimps-logo.png> not translated.
