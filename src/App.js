@@ -9,8 +9,8 @@ try {
   sync_fcpxml = require("./OTIO/CMP_testTimeline.xml");
   otio_json = require("./OTIO/CMP_testTimeline.json");
 } catch (err) {
-  sync_fcpxml = "jacob";
-  otio_json = "rulz";
+  sync_fcpxml = "test";
+  otio_json = "test2";
 }
 
 class App extends React.Component {
@@ -26,7 +26,8 @@ class App extends React.Component {
     };
   }
   componentDidMount() {
-    console.log("RESULT from flask:", this.syncTimeline(this.state.fcpxml));
+    var result = this.syncTimeline(this.state.fcpxml);
+    console.log("RESULT from flask:", result);
     this.setState({
       shotLog: this.createShotLog()
     });
