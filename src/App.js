@@ -3,11 +3,11 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Table } from "reactstrap";
 // import { CSVLink, CSVDownload } from "react-csv";
-const fcpxml = "./OTIO/CMP_testTimeline.xml";
+// const fcpxml = "./OTIO/timeline.xml";
 var sync_fcpxml, otio_json;
 try {
-  sync_fcpxml = require("./OTIO/CMP_testTimeline.xml");
-  otio_json = require("./OTIO/CMP_testTimeline.json");
+  sync_fcpxml = require("./OTIO/timeline.xml");
+  otio_json = require("./OTIO/timeline.json");
 } catch (err) {
   sync_fcpxml = "test";
   otio_json = "test2";
@@ -20,7 +20,7 @@ class App extends React.Component {
       button_label: "Build Spreadsheet",
       timeline: null,
       shotLog: null,
-      fcpxml: fcpxml,
+      fcpxml: sync_fcpxml,
       // set state to the required file to detect changes (this is the beauty of react!)
       sync_fcpxml: sync_fcpxml || "jacob"
     };
