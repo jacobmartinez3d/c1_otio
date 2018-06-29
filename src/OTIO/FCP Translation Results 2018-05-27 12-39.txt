@@ -1,2 +1,0 @@
-Translation issue:
-	Sequence <danceVid.0000> at , video track 1: Effect <Dust &amp; Scratches> on Clip <jacob rulz> not translated.

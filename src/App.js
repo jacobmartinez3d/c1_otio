@@ -3,18 +3,18 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Table } from "reactstrap";
 // import { CSVLink, CSVDownload } from "react-csv";
-const fcpxml = "./OTIO/CMP_testTimeline.xml";
+const fcpxml = "./OTIO/timeline.xml";
 var sync_fcpxml, otio_json;
 try {
-  sync_fcpxml = require("./OTIO/CMP_testTimeline.xml");
-  otio_json = require("./OTIO/CMP_testTimeline.json");
+  sync_fcpxml = require("./OTIO/timeline.xml");
+  otio_json = require("./OTIO/timeline.json");
 } catch (err) {
   sync_fcpxml = "jacob";
   otio_json = "rulz";
 }
 
 class App extends React.Component {
-  constructor(props) {
+    constructor(props) {
     super(props);
     this.state = {
       button_label: "Build Spreadsheet",
@@ -38,8 +38,8 @@ class App extends React.Component {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",
-        mode: "no-cors"
-        // "Content-Length": data.length
+        mode: "no-cors",
+        "Content-Length": data.length
       },
       body: data
     })
@@ -100,7 +100,7 @@ class App extends React.Component {
         }
       });
     } catch (err) {
-      console.warn(err);
+      // console.warn(err);
     }
     return csvData;
   }
@@ -115,7 +115,7 @@ class App extends React.Component {
           <h1 className="App-title">C1 Timeline</h1>
         </header>
         <p>
-          {this.state.fcpxml && this.state.fcpxml}
+          {this.state.synced_fcpxml && this.state.synced_fcpxml}
         </p>
 
         {this.state.shotLog &&

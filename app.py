@@ -2,8 +2,10 @@ import sys, os, random, json
 import opentimelineio as otio
 from shutil import copyfile
 from flask import Flask, render_template, request, redirect, Response
+from flask_cors import CORS, cross_origin
 dir_path = os.path.dirname(os.path.realpath(__file__))
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/')
 def output():
@@ -39,10 +41,10 @@ def sync_otio():
 			save_to += ".xml"
 			otio.adapters.write_to_file(timeline, save_to)
 		print("Saved to:\n" + save_to)
-		data = {otio: timeline, path : {json:save_json_to, otio: save_otio_to}}
+		data = {"otio": timeline, "path": {json:save_json_to, otio: save_otio_to}}
 		return data
 	def writeShotLog(timeline):
-		print timeline
+		print(timeline["otio"])
 		for each_seq in timeline.tracks:
 			for each_item in each_seq:
 				if isinstance(each_item, otio.schema.Clip):
