@@ -1,7 +1,7 @@
 {
     "OTIO_SCHEMA": "Timeline.1", 
     "metadata": {}, 
-    "name": "Fire_VFX_CC_R_v11", 
+    "name": "Chimp_Final Cut_SWAPS_6k_EDIT CHANGE", 
     "tracks": {
         "OTIO_SCHEMA": "Stack.1", 
         "children": [
@@ -19,7 +19,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 736
+                                "value": 114
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -39,7 +39,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 519
+                                    "value": 3166
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -49,16 +49,328 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/002/CWF_JS3D5S18_v001_right_000519.tif"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0049/CMP_ZCAM0049_v004/Prerenders/CMP_ZCAM0049_v004.5834.png"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS3D5S18_v001_right_000519.tif", 
+                        "name": "CMP_ZCAM0049_v004.5834.png", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 279
+                                "value": 3052
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 114
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 3502
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-1/CMP_ZCAM0050-1_V004/Prerenders/CMP_ZCAM0050-1_v003.0001.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_ZCAM0050-1_v003.0001.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 2335
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 3620
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS3_000/CMP_JS3_000_v001/render/right/CMP_JS3_000_v001_right.0001.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_JS3_000_v001_right.0001.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 2017
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 120
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 13440
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov"
+                        }, 
+                        "metadata": {}, 
+                        "name": "Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 395
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1073.0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 528
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-2/CMP_ZCAM0050-2_v004/CMP_ZCAM0050-2_v004.3478.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_ZCAM0050-2_v004.3478.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 288
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 120
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 13440
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov"
+                        }, 
+                        "metadata": {}, 
+                        "name": "Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1689
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1469.0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 1346
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0054/CMP_ZCAM0054_v002/Prerenders/CMP_ZCAM0054_v002.6591.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_ZCAM0054_v002.6591.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1226
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 5159
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2_005/CMP_JS2_005_v001/render/render/right/CMP_JS2__005_v001_right.1059.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_JS2__005_v001_right.1059.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 4919
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 120
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 622
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-3/CMP_ZCAM0050-3_v003/Prerenders/CMP_ZCAM0050-3_v003.5554.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_ZCAM0050-3_v003.5554.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 501
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -78,7 +390,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 489
+                                    "value": 3199
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -88,1041 +400,21 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/004/CWF_JS3D5S13_v001_right_001527.tif"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2D1S3/CMP_JS2D1S3_v001/Prerenders/Right/CMP_JS2D1S3_v001_right.3000.png"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS3D5S13_v001_right_001527.tif", 
+                        "name": "CMP_JS2D1S3_v001_right.3000.png", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 249
+                                "value": 2283
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 486
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/005/C00_ZCAM2900_201708251219.kava_002016.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2900_201708251219.kava_002016.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 248
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 119
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 1027
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/006/CWF_360_0088_lja_002502.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_360_0088_lja_002502.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 431
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 57
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 752
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/007/C00_ZCAM2999_201708281631.kava_003529.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2999_201708281631.kava_003529.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 514
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 118
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 476
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 1088
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/010/C00_ZCAM2874_201708231930.kava_3_1_006009.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2874_201708231930.kava_3_1_006009.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 849
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 80
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 199
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 803
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/012/CWF_100_004_v001_007714.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_100_004_v001_007714.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 565
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 118
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 524
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 644
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/019/CWF_JS2D1S4_left_v001_010887.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D1S4_left_v001_010887.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 403
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 453
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/021/C00_ZCAM2868_0000_201708231416.kava_012175.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2868_0000_201708231416.kava_012175.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 215
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 578
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/022/C00_ZCAM2887_201708241332.kava_012628.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2887_201708241332.kava_012628.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 339
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 64
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 640
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/023/C00_ZCAM2999_201708281631.kava_1_2_013206.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2999_201708281631.kava_1_2_013206.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 402
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 103
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 834
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/024/C00_ZCAM2942_201708271602.kava_013846.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2942_201708271602.kava_013846.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 588
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 101
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 866
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/025/C00_ZCAM2874_201708231930.kava_014680.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2874_201708231930.kava_014680.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 627
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 84
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 278
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 548
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/029/CWF_JS3D5S2-2_right_017045.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D5S2-2_right_017045.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 308
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 267
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 879
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/033/C00_ZCAM2874_201708231930.kava_3_5_019335.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2874_201708231930.kava_3_5_019335.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 641
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 72
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 427
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 777
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/036/C00_ZCAM2874_201708231930.kava_3_6_021914.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2874_201708231930.kava_3_6_021914.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 539
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 24
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 2
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 3925
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/038/CWF_JS3D9S2_right_026616.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S2_right_026616.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 717
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 142
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 1402
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 958
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/046/CWF_JS2D9S4_right.mov"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D9S4_right.mov", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 701
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 241
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 979
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/050/CWF_JS2D9S6_v002_right_047114.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D9S6_v002_right_047114.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 737
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 121
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 537
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 993
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/054/CWF_JS3D9S14_v001_right.mov"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S14_v001_right.mov", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 784
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 163
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 631
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/6.VFX/CWF_JS3D9S7/CWF_JS3D9S7_v003/Prerenders/CWF_JS3D9S7_v003_right.0001.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S7_v003_right.0001.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 391
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 237
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 723
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/058/CWF_JS3D2S1_v001_right_054041.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D2S1_v001_right_054041.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 483
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
+                                "value": 796
                             }
                         }
                     }
@@ -1148,7 +440,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 2367
+                                "value": 15
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -1168,7 +460,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 864
+                                    "value": 899
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1178,16 +470,370 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/009/CWF_JS3D5S3_v001_stabalized_right_005145.tif"
+                            "target_url": "file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/logo.aep"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS3D5S3_v001_stabalized_right_005145.tif", 
+                        "name": "logo_swipe/logo.aep", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 656
+                                "value": 85
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 30
+                        }, 
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "Cross Dissolve"
+                            }
+                        }, 
+                        "name": "Cross Dissolve", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 0
+                        }, 
+                        "transition_type": "SMPTE_Dissolve"
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Gap.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "metadata": {}, 
+                        "name": null, 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 26
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 1, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 325
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/__Project%20Files/After%20Effects/CMP_graphics_v002.aep"
+                        }, 
+                        "metadata": {}, 
+                        "name": "01_root/CMP_graphics_v002.aep", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 325
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Gap.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "metadata": {}, 
+                        "name": null, 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 5
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 1, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 177
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/__Project%20Files/After%20Effects/CMP_graphics_v002.aep"
+                        }, 
+                        "metadata": {}, 
+                        "name": "02_root/CMP_graphics_v002.aep", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 177
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Gap.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "metadata": {}, 
+                        "name": null, 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 4868
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 1, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 3620
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS3_000/CMP_JS3_000_v001/render/left/CMP_JS3_000_v001_left.0001.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_JS3_000_v001_left.0001.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 2017
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 120
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 13440
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov"
+                        }, 
+                        "metadata": {}, 
+                        "name": "Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 395
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1073.0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Gap.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "metadata": {}, 
+                        "name": null, 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 288
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 1, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 13440
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.0, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov"
+                        }, 
+                        "metadata": {}, 
+                        "name": "Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1689
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1469.0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Gap.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "metadata": {}, 
+                        "name": null, 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 1226
+                            }, 
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 1, 
+                                "value": 0
+                            }
+                        }
+                    }, 
+                    {
+                        "OTIO_SCHEMA": "Clip.1", 
+                        "effects": [], 
+                        "markers": [], 
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1", 
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1", 
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 5159
+                                }, 
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1", 
+                                    "rate": 29.97, 
+                                    "value": 0
+                                }
+                            }, 
+                            "metadata": {}, 
+                            "name": null, 
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2_005/CMP_JS2_005_v001/render/render/left/CMP_JS2__005_v001_left.1059.png"
+                        }, 
+                        "metadata": {}, 
+                        "name": "CMP_JS2__005_v001_left.1059.png", 
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1", 
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1", 
+                                "rate": 29.97, 
+                                "value": 4919
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -1207,7 +853,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 669
+                                "value": 501
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -1227,7 +873,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 617
+                                    "value": 3199
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1237,24 +883,35 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/011/C00_ZCAM2874_201708231930.kava_3_2_007097.tif"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2D1S3/CMP_JS2D1S3_v001/Prerenders/Left/CMP_JS2D1S3_v001_left.3000.png"
                         }, 
                         "metadata": {}, 
-                        "name": "C00_ZCAM2874_201708231930.kava_3_2_007097.tif", 
+                        "name": "CMP_JS2D1S3_v001_left.3000.png", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 379
+                                "value": 2283
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 120
+                                "value": 796
                             }
                         }
-                    }, 
+                    }
+                ], 
+                "effects": [], 
+                "kind": "Video", 
+                "markers": [], 
+                "metadata": {}, 
+                "name": null, 
+                "source_range": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Track.1", 
+                "children": [
                     {
                         "OTIO_SCHEMA": "Gap.1", 
                         "effects": [], 
@@ -1266,7 +923,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 385
+                                "value": 18836
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -1276,396 +933,24 @@
                         }
                     }, 
                     {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 327
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/014/CWF_JS2D7S1_right_008844.tif"
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 0
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D7S1_right_008844.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 326
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "Cross Dissolve"
                             }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 421
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/016/CWF_JS3D1S3_v001_right_009592.tif"
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D1S3_v001_right_009592.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 182
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 119
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 437
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/018/CWF_JS2D1S1_v001_right_010450.tif"
+                        "name": "Cross Dissolve", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 30
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D1S1_v001_right_010450.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 197
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 2356
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 453
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/026/C00_ZCAM2874_201708231930.kava_015546.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "C00_ZCAM2874_201708231930.kava_015546.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 215
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 82
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 523
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/028/CWF_JS3D5S2-1_lja_v004_right_016522.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D5S2-1_lja_v004_right_016522.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 283
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 214
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 597
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/032/CWF_JS3D5S11_v005_right_018738.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D5S11_v005_right_018738.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 357
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 461
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 850
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/035/CWF_JS3D5S6_v004_right_021064.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D5S6_v004_right_021064.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 607
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 1078
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 2041
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/040/CWF_JS3D9S4_v004_right_032582.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S4_v004_right_032582.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 355
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
+                        "transition_type": "SMPTE_Dissolve"
                     }, 
                     {
                         "OTIO_SCHEMA": "Clip.1", 
@@ -1688,16 +973,16 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/040/CWF_JS3D9S4_v004_right%20(00475).tif"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/Project-Chimps-logo.png"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS3D9S4_v004_right (00475).tif", 
+                        "name": "Project-Chimps-logo.png", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 1
+                                "value": 37
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -1717,7 +1002,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 2041
+                                    "value": 0
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1727,21 +1012,21 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/040/CWF_JS3D9S4_v004_right_032582.tif"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/Project-Chimps-logo.png"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS3D9S4_v004_right_032582.tif", 
+                        "name": "Project-Chimps-logo.png", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 7
+                                "value": 5
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 476
+                                "value": 107946
                             }
                         }
                     }, 
@@ -1756,7 +1041,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 2070
+                                    "value": 0
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1766,62 +1051,43 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/042/CWF_JS3D9S3_v007_right_036693.tif"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/Project-Chimps-logo.png"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS3D9S3_v007_right_036693.tif", 
+                        "name": "Project-Chimps-logo.png", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 489
+                                "value": 45
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 400
+                                "value": 107951
                             }
                         }
                     }, 
                     {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 2084
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/043/CWF_JS3D9S1_v002_right_038763.tif"
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 33
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S1_v002_right_038763.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 808
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 1263
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "Cross Dissolve"
                             }
-                        }
+                        }, 
+                        "name": "Cross Dissolve", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 0
+                        }, 
+                        "transition_type": "SMPTE_Dissolve"
                     }, 
                     {
                         "OTIO_SCHEMA": "Gap.1", 
@@ -1834,7 +1100,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 443
+                                "value": 10
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -1854,7 +1120,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 661
+                                    "value": 899
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -1864,193 +1130,16 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/048/CWF_JS2D9S12_lja_v007_right_045474.tif"
+                            "target_url": "file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/logo.aep"
                         }, 
                         "metadata": {}, 
-                        "name": "CWF_JS2D9S12_lja_v007_right_045474.tif", 
+                        "name": "logo_swipe/logo.aep", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 421
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 528
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 1015
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/052/CWF_JS3D9S8_v001_right_049108.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S8_v001_right_049108.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 775
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 478
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 670
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/6.VFX/CWF_JS3D9S6/CWF_JS3D9S6_v001/Prerenders/CWF_JS3D9S6_v001_right.0001.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS3D9S6_v001_right.0001.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 439
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 211
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 592
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/057/CWF_360_0089_lja_053449.tif"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_360_0089_lja_053449.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 415
+                                "value": 85
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -2060,141 +1149,24 @@
                         }
                     }, 
                     {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 246
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 943
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/061/CWF_JS2D5S1_v002_left_056430.tif"
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 30
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D5S1_v002_left_056430.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 305
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 120
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "Cross Dissolve"
                             }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/061/CWF_JS2D5S1_v002_left%20(00425).tif"
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D5S1_v002_left (00425).tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 1
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 107892
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 943
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/7.Exports/color_correction/061/CWF_JS2D5S1_v002_left_056430.tif"
+                        "name": "Cross Dissolve", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 0
                         }, 
-                        "metadata": {}, 
-                        "name": "CWF_JS2D5S1_v002_left_056430.tif", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 397
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 426
-                            }
-                        }
+                        "transition_type": "SMPTE_Dissolve"
                     }
                 ], 
                 "effects": [], 
@@ -2208,24 +1180,24 @@
                 "OTIO_SCHEMA": "Track.1", 
                 "children": [
                     {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 49
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 0
+                        }, 
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "KGAudioTransCrossFade3dB"
                             }
-                        }
+                        }, 
+                        "name": "Cross Fade (+3dB)", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 2
+                        }, 
+                        "transition_type": "SMPTE_Dissolve"
                     }, 
                     {
                         "OTIO_SCHEMA": "Clip.1", 
@@ -2238,7 +1210,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 687
+                                    "value": 20379
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -2248,16 +1220,16 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/01_Text%20on%20Black%20Opening%20Sequence/right/01_Text%20on%20Black%20Opening%20Sequence_right.000.png"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/3.Audio/Chimps_Mix3_o2a.wav"
                         }, 
                         "metadata": {}, 
-                        "name": "01_Text on Black Opening Sequence_right.000.png", 
+                        "name": "Chimps_Mix3_o2a.wav", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 686
+                                "value": 7517
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
@@ -2267,24 +1239,24 @@
                         }
                     }, 
                     {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 1772
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 2
+                        }, 
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "KGAudioTransCrossFade3dB"
                             }
-                        }
+                        }, 
+                        "name": "Cross Fade (+3dB)", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 3
+                        }, 
+                        "transition_type": "SMPTE_Dissolve"
                     }, 
                     {
                         "OTIO_SCHEMA": "Clip.1", 
@@ -2297,7 +1269,7 @@
                                 "duration": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
                                     "rate": 29.97, 
-                                    "value": 412
+                                    "value": 20379
                                 }, 
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1", 
@@ -2307,768 +1279,43 @@
                             }, 
                             "metadata": {}, 
                             "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/02_Participant_Presents/right/02_Participant_Presents_right.000.png"
+                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/3.Audio/Chimps_Mix3_o2a.wav"
                         }, 
                         "metadata": {}, 
-                        "name": "02_Participant_Presents_right.000.png", 
+                        "name": "Chimps_Mix3_o2a.wav", 
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1", 
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 168
+                                "value": 11501
                             }, 
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1", 
                                 "rate": 29.97, 
-                                "value": 0
+                                "value": 8878
                             }
                         }
                     }, 
                     {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 55
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 412
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/02_Participant_Presents/right/02_Participant_Presents_right.000.png"
+                        "OTIO_SCHEMA": "Transition.1", 
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 2
                         }, 
-                        "metadata": {}, 
-                        "name": "02_Participant_Presents_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 189
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 223
+                        "metadata": {
+                            "fcp_xml": {
+                                "effectid": "KGAudioTransCrossFade3dB"
                             }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 903
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 176
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 33
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/03_The%20amount%20of%20land%20burned/MONO/03_The%20amount%20of%20land%20burned_mono.000.png"
                         }, 
-                        "metadata": {}, 
-                        "name": "03_The amount of land burned_mono.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 176
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 33
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 261
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 197
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 160
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/04_No%20state%20faces/MONO/04_No%20state%20faces.000.png"
+                        "name": "Cross Fade (+3dB)", 
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1", 
+                            "rate": 29.97, 
+                            "value": 0
                         }, 
-                        "metadata": {}, 
-                        "name": "04_No state faces.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 197
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 160
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 152
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 232
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/05_Ryan%20Air%20Attack%20Base,%20Hemet,%20California/right/05_Ryan%20Air%20Attack%20Base_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "05_Ryan Air Attack Base_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 175
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 53
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 5551
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 123
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/06_October,%209th%202017/right/06_October_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "06_October_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 123
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 2100
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 276
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/07_44%20people%20lost%20their%20lives/right/07_44%20people%20lost%20their%20lives_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "07_44 people lost their lives_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 276
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 4239
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 367
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/08_Text%20on%20black%20closing%20sequence/right/08_Text%20on%20black%20closing%20sequence_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "08_Text on black closing sequence_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 367
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 35
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 421
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/09_this%20is%20climate%20change/right/09_this%20is%20climate%20change_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "09_this is climate change_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 328
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 1798
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/CREDITS/right/CWF_credits_right.0000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "CWF_credits_right.0000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 1650
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 80
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 501
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/POST-CREDITS/right/post_credits_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "post_credits_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 257
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 501
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/POST-CREDITS/left/post_credits_left.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "post_credits_left.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 116
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 257
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 501
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/4.Graphics/Titles/POST-CREDITS/right/post_credits_right.000.png"
-                        }, 
-                        "metadata": {}, 
-                        "name": "post_credits_right.000.png", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 128
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 373
-                            }
-                        }
-                    }
-                ], 
-                "effects": [], 
-                "kind": "Video", 
-                "markers": [], 
-                "metadata": {}, 
-                "name": null, 
-                "source_range": null
-            }, 
-            {
-                "OTIO_SCHEMA": "Track.1", 
-                "children": [
-                    {
-                        "OTIO_SCHEMA": "Gap.1", 
-                        "effects": [], 
-                        "markers": [], 
-                        "metadata": {}, 
-                        "name": null, 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 23
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 1, 
-                                "value": 0
-                            }
-                        }
-                    }, 
-                    {
-                        "OTIO_SCHEMA": "Clip.1", 
-                        "effects": [], 
-                        "markers": [
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 10926
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": null
-                                    }
-                                }, 
-                                "name": null
-                            }, 
-                            {
-                                "OTIO_SCHEMA": "Marker.2", 
-                                "color": "RED", 
-                                "marked_range": {
-                                    "OTIO_SCHEMA": "TimeRange.1", 
-                                    "duration": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 1, 
-                                        "value": 0
-                                    }, 
-                                    "start_time": {
-                                        "OTIO_SCHEMA": "RationalTime.1", 
-                                        "rate": 29.97, 
-                                        "value": 12066
-                                    }
-                                }, 
-                                "metadata": {
-                                    "fcp_xml": {
-                                        "comment": null
-                                    }
-                                }, 
-                                "name": null
-                            }
-                        ], 
-                        "media_reference": {
-                            "OTIO_SCHEMA": "ExternalReference.1", 
-                            "available_range": {
-                                "OTIO_SCHEMA": "TimeRange.1", 
-                                "duration": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 17768
-                                }, 
-                                "start_time": {
-                                    "OTIO_SCHEMA": "RationalTime.1", 
-                                    "rate": 29.97, 
-                                    "value": 0
-                                }
-                            }, 
-                            "metadata": {}, 
-                            "name": null, 
-                            "target_url": "file://localhost/G%3a/Departments/_Post/__Projects/027_Wildfires_CWF/3.Audio/Processed/Cal%20Fire_Edit%206_EDIT%20LOCK_Stereo%20Audio%20Ref.wav"
-                        }, 
-                        "metadata": {}, 
-                        "name": "Cal Fire_Edit 6_EDIT LOCK_Stereo Audio Ref.wav", 
-                        "source_range": {
-                            "OTIO_SCHEMA": "TimeRange.1", 
-                            "duration": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 17768
-                            }, 
-                            "start_time": {
-                                "OTIO_SCHEMA": "RationalTime.1", 
-                                "rate": 29.97, 
-                                "value": 0
-                            }
-                        }
+                        "transition_type": "SMPTE_Dissolve"
                     }
                 ], 
                 "effects": [], 
@@ -3094,7 +1341,30 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 16654
+                        "value": 12808
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": "END of Offset KEYFRAMES"
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 2705
                     }
                 }, 
                 "metadata": {
@@ -3117,7 +1387,237 @@
                     "start_time": {
                         "OTIO_SCHEMA": "RationalTime.1", 
                         "rate": 29.97, 
-                        "value": 11088
+                        "value": 5795
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 6444
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": "GFX_  ID TAGS SECTION"
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 5399
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 2696
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 7595
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 126
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 18867
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": "SEAM!!!"
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 2801
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 5386
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 456
+                    }
+                }, 
+                "metadata": {
+                    "fcp_xml": {
+                        "comment": null
+                    }
+                }, 
+                "name": null
+            }, 
+            {
+                "OTIO_SCHEMA": "Marker.2", 
+                "color": "RED", 
+                "marked_range": {
+                    "OTIO_SCHEMA": "TimeRange.1", 
+                    "duration": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 1, 
+                        "value": 0
+                    }, 
+                    "start_time": {
+                        "OTIO_SCHEMA": "RationalTime.1", 
+                        "rate": 29.97, 
+                        "value": 5353
                     }
                 }, 
                 "metadata": {
@@ -3129,7 +1629,7 @@
             }
         ], 
         "metadata": {}, 
-        "name": "Fire_VFX_CC_R_v11", 
+        "name": "Chimp_Final Cut_SWAPS_6k_EDIT CHANGE", 
         "source_range": null
     }
 }
