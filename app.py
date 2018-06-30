@@ -25,6 +25,7 @@ def sync_otio():
 			return False
 		save_to = os.path.join(os.path.dirname(filepath), timeline_name)
 		try:
+			print("read_from_file:\n" + filepath)
 			timeline = otio.adapters.read_from_file(filepath)
 		except:
 			print("No Adapter for this filetype.\nSee available Adapters here:\nhttps://github.com/PixarAnimationStudios/OpenTimelineIO\#adapters")
@@ -41,22 +42,22 @@ def sync_otio():
 			save_to += ".xml"
 			otio.adapters.write_to_file(timeline, save_to)
 		print("Saved to:\n" + save_to)
-		data = {"otio": timeline, "path": {json:save_json_to, otio: save_otio_to}}
+		data = {"otio": timeline, "path": {"json":save_json_to, "otio": save_otio_to}}
 		return data
-	def writeShotLog(timeline):
-		print(timeline["otio"])
-		for each_seq in timeline.tracks:
-			for each_item in each_seq:
-				if isinstance(each_item, otio.schema.Clip):
-					print each_item.media_reference
+	# def writeShotLog(timeline):
+	# 	timeline = timeline["otio"]
+	# 	for each_seq in timeline.tracks:
+	# 		for each_item in each_seq:
+	# 			if isinstance(each_item, otio.schema.Clip):
+	# 				print each_item.media_reference
 
 	#########################################################
 	# read json + reply
 	data = request.get_json()
 	newPath = os.path.join(dir_path, "src", "OTIO", os.path.basename(data["fcpxml"]))
-	timeline = writeOtioFile(newPath)
-	print("sync_otio has been pinged!\n\n" + str(timeline))
-	writeShotLog(timeline)
+	writeOtioFile(newPath)
+	# print("sync_otio has been pinged!\n\ntimeline:\n" + str(timeline) + "\n\nnewPath:\n" + newPath)
+	# writeShotLog(timeline)
 	return "synced"
 
 if __name__ == '__main__':

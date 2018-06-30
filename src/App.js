@@ -3,18 +3,13 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Table } from "reactstrap";
 // import { CSVLink, CSVDownload } from "react-csv";
-<<<<<<< HEAD
-const fcpxml = "./OTIO/timeline.xml";
-=======
-// const fcpxml = "./OTIO/timeline.xml";
->>>>>>> bf065841e581b2dc6490bc8367013e0f48322496
+const path_to_fcpxml = "./OTIO/timeline.xml";
 var sync_fcpxml, otio_json;
 try {
   sync_fcpxml = require("./OTIO/timeline.xml");
   otio_json = require("./OTIO/timeline.json");
 } catch (err) {
-  sync_fcpxml = "test";
-  otio_json = "test2";
+  console.warn(err)
 }
 
 class App extends React.Component {
@@ -24,14 +19,14 @@ class App extends React.Component {
       button_label: "Build Spreadsheet",
       timeline: null,
       shotLog: null,
-      fcpxml: sync_fcpxml,
+      fcpxml: path_to_fcpxml,
       // set state to the required file to detect changes (this is the beauty of react!)
       sync_fcpxml: sync_fcpxml || "jacob"
     };
   }
   componentDidMount() {
     var result = this.syncTimeline(this.state.fcpxml);
-    console.log("RESULT from flask:", result);
+    // console.log("RESULT from flask:", result);
     this.setState({
       shotLog: this.createShotLog()
     });
