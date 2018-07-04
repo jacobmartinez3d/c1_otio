@@ -1,0 +1,60 @@
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <0001_20180508_114122_03_60FPS_AUDIO.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <0005_20180510_110814_18_60FPS_AUDIO.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <CMP2_KANDAO_20180508_113522_v001> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <KANDAO_20180508_114221_v001_0001.png> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <KANDAO_20180508_115309_v001_0001.png> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <KANDAO_20180508_120345_v001_0001.png> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <KANDAO_20180508_120625_v001_0001.png> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <KANDAO_20180510_110814_v001_0001.png> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Offset> on Clip <KANDAO_20180514_113822_v001_0001.png> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Timecode> on Clip <0001_20180508_114122_03_60FPS_AUDIO.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Timecode> on Clip <0005_20180510_110814_18_60FPS_AUDIO.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 1: Effect <Timecode> on Clip <ZCAM0126_5509_combined_3d180_05_23_2018__13_24_31.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 2: Effect <Offset> on Clip <0001_20180514_101903_60FPS_AUDIO.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 2: Effect <Timecode> on Clip <0001_20180514_101903_60FPS_AUDIO.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 3: Effect <VR Rotate Sphere> on Clip <04_root/CMP2_graphics.aep> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , video track 3: Effect <VR Rotate Sphere> on Clip <05_root/CMP2_graphics.aep> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 2: Effect <Internal Channel Volume 16 Channel> on Clip <SR001_ambiX.wav> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 2: Effect <Internal Channel Volume 16 Channel> on Clip <SR008_ambiX.wav> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <ZCAM0126_5509_combined_3d180_05_23_2018__13_24_31.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 2: Effect <Internal Channel Volume Stereo> on Clip <ZCAM0139_5912_combined_3d180_05_23_2018__13_44_01.mp4> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 3: Effect <Internal Channel Volume 16 Channel> on Clip <SR001_ambiX.wav> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 3: Effect <Internal Channel Volume 16 Channel> on Clip <SR005_ambiX.wav> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 4: Effect <Internal Channel Volume Stereo> on Clip <Kate_ZOOM0001.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 5: Effect <Internal Channel Volume Stereo> on Clip <K1Pro-Brooke_20180508.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 6: Effect <Internal Channel Volume Stereo> on Clip <BrookePart2_ZOOM0001.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 6: Effect <Internal Channel Volume Stereo> on Clip <K1Pro-Brooke_20180508.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 6: Effect <Internal Channel Volume Stereo> on Clip <Kate_ZOOM0001.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 6: Effect <Internal Channel Volume Stereo> on Clip <Kate_ZOOM0002.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 6: Effect <Internal Channel Volume Stereo> on Clip <ZOOM0002.WAV> not translated.
+Translation issue:
+	Sequence <Edit 7_SWAPS> at , audio track 7: Effect <Internal Channel Volume Stereo> on Clip <20474912_future-dreams_by_davidyan_preview.mp3> not translated.

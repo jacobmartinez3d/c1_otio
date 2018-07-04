@@ -25,7 +25,7 @@ class App extends React.Component {
     };
   }
   componentDidMount() {
-    var result = this.syncTimeline(this.state.fcpxml);
+    this.syncTimeline(this.state.fcpxml);
     // console.log("RESULT from flask:", result);
     this.setState({
       shotLog: this.createShotLog()
@@ -62,19 +62,25 @@ class App extends React.Component {
           // Video Clips
           track.children.forEach((clip, j) => {
             if (clip.OTIO_SCHEMA === "Clip.1") {
-              // console.warn(clip);
+              let edit_in = clip.source_range.start_time.value
+              let edit_out = clip.source_range.start_time.value + clip.source_range.duration.value
+              let source_duration = clip.media_reference.available_range.duration.value
+              let source_framerate = clip.media_reference.available_range.duration.rate
+              console.warn("clip:\n\n", clip);
               csvData.push([
                 // 0: Name
-                clip.name.split(".")[0],
-                // 1: Source Duration
-                clip.media_reference.available_range.duration.value,
-                // 2: Edit Duration
+                clip.name + " (" + source_framerate + "fps)",
+                // 1: Edit In
+                edit_in,
+                // 2: Edit Out
+                edit_out,
+                // 3: Head
+                edit_in - 240 < 0? 0:edit_in - 240,
+                // 4. Tail
+                edit_out + 240 > source_duration? source_duration:edit_out + 240,
+                // 5: Edit Duration
                 clip.source_range.duration.value,
-                // 3: Edit In
-                clip.source_range.start_time.value,
-                // 4: Edit Out
-                clip.source_range.start_time.value + clip.source_range.duration.value,
-                // 5: VFX Notes
+                // 6: VFX Notes
                 clip.markers.map((marker, k) => {
                   var result;
                   if (marker.name && marker.marked_range.duration.value < 1) {
@@ -92,7 +98,7 @@ class App extends React.Component {
                   }
                   return result;
                 }),
-                // 6: URL
+                // 7: URL
                 clip.media_reference.target_url
               ]);
             }
@@ -123,10 +129,11 @@ class App extends React.Component {
             <thead>
               <tr>
                 <th>SHOT</th>
-                <th>Source Duration</th>
-                <th>Edit Duration</th>
                 <th>Edit In</th>
                 <th>Edit Out</th>
+                <th><i>(Head)</i></th>
+                <th><i>(Tail)</i></th>
+                <th>Edit Duration</th>
                 <th>VFX Notes</th>
                 <th>Source Url</th>
               </tr>
@@ -145,16 +152,19 @@ class App extends React.Component {
                       {shot[2]}
                     </th>
                     <th>
-                      {shot[3]}
+                      <i>({shot[3]})</i>
                     </th>
                     <th>
-                      {shot[4]}
+                      <i>({shot[4]})</i>
                     </th>
                     <th>
                       {shot[5]}
                     </th>
                     <th>
                       {shot[6]}
+                    </th>
+                    <th>
+                      {shot[7]}
                     </th>
                   </tr>
                 );
