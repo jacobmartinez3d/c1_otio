@@ -7,7 +7,7 @@ import random, json
 app = Flask(__name__)
 
 @app.route('/')
-def c1_timeline( filepath="D:/c1_otio/src/CMP_testTimeline.xml" ):
+def c1_timeline( filepath="./src/OTIO/timeline.xml" ):
     try:
         timeline_name = os.path.basename(filepath).split(".")[0]
         operation = os.path.basename(filepath).split(".")[1]

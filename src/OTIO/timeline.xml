@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmeml>
 <xmeml version="4">
-	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.446360141039" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="25401600000000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.013570146707390868" AM.TrackVScrollPosition="0" AM.TrackScrollPosition="0" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="5760" MZ.Sequence.PreviewFrameSizeWidth="5760" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1128679492" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets\SequencePreview\9678af98-a7b7-4bdb-b477-7ac9c8df4a4e\Quicktime GoPro CineForm (YUV 10-bit).epr" MZ.Sequence.PreviewUseMaxRenderQuality="true" MZ.Sequence.PreviewUseMaxBitDepth="true" MZ.Sequence.EditingModeGUID="9678af98-a7b7-4bdb-b477-7ac9c8df4a4e" MZ.Sequence.VideoTimeDisplayFormat="103" MZ.WorkOutPoint="161190238809600" MZ.WorkInPoint="0" MZ.ZeroPoint="0" explodedTracks="true">
+	<sequence id="sequence-3" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.446360141039" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="25401600000000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.013570146707390868" AM.TrackVScrollPosition="0" AM.TrackScrollPosition="0" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="5760" MZ.Sequence.PreviewFrameSizeWidth="5760" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1128679492" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets\SequencePreview\9678af98-a7b7-4bdb-b477-7ac9c8df4a4e\Quicktime GoPro CineForm (YUV 10-bit).epr" MZ.Sequence.PreviewUseMaxRenderQuality="true" MZ.Sequence.PreviewUseMaxBitDepth="true" MZ.Sequence.EditingModeGUID="9678af98-a7b7-4bdb-b477-7ac9c8df4a4e" MZ.Sequence.VideoTimeDisplayFormat="103" MZ.WorkOutPoint="161190238809600" MZ.WorkInPoint="0" MZ.ZeroPoint="0" explodedTracks="true">
 		<uuid>4adf80d3-44de-47c9-aee6-0c845083d389</uuid>
 		<duration>19018</duration>
 		<rate>
@@ -46,8 +46,8 @@
 					</samplecharacteristics>
 				</format>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="87" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-25">
-						<masterclipid>masterclip-19</masterclipid>
+					<clipitem id="clipitem-49">
+						<masterclipid>masterclip-37</masterclipid>
 						<name>Establishing Shot</name>
 						<enabled>TRUE</enabled>
 						<duration>3166</duration>
@@ -64,7 +64,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-19">
+						<file id="file-37">
 							<name>CMP_ZCAM0049_v004.5834.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0049/CMP_ZCAM0049_v004/Prerenders/CMP_ZCAM0049_v004.5834.png</pathurl>
 							<rate>
@@ -117,8 +117,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-26">
-						<masterclipid>masterclip-20</masterclipid>
+					<clipitem id="clipitem-50">
+						<masterclipid>masterclip-38</masterclipid>
 						<name>Cage Shot 1</name>
 						<enabled>TRUE</enabled>
 						<duration>3502</duration>
@@ -135,7 +135,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-20">
+						<file id="file-38">
 							<name>CMP_ZCAM0050-1_v003.0001.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-1/CMP_ZCAM0050-1_V004/Prerenders/CMP_ZCAM0050-1_v003.0001.png</pathurl>
 							<rate>
@@ -188,8 +188,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-27">
-						<masterclipid>masterclip-21</masterclipid>
+					<clipitem id="clipitem-51">
+						<masterclipid>masterclip-39</masterclipid>
 						<name>Cage Door Opens_left</name>
 						<enabled>TRUE</enabled>
 						<duration>3620</duration>
@@ -206,7 +206,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-21">
+						<file id="file-39">
 							<name>CMP_JS3_000_v001_right.0001.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS3_000/CMP_JS3_000_v001/render/right/CMP_JS3_000_v001_right.0001.png</pathurl>
 							<rate>
@@ -306,8 +306,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-28">
-						<masterclipid>masterclip-22</masterclipid>
+					<clipitem id="clipitem-52">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>Cage_Shot_2_left</name>
 						<enabled>TRUE</enabled>
 						<duration>13440</duration>
@@ -324,7 +324,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-22">
+						<file id="file-40">
 							<name>Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
 							<pathurl>file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</pathurl>
 							<rate>
@@ -431,8 +431,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-29">
-						<masterclipid>masterclip-23</masterclipid>
+					<clipitem id="clipitem-53">
+						<masterclipid>masterclip-41</masterclipid>
 						<name>Monkeys exiting for first time</name>
 						<enabled>TRUE</enabled>
 						<duration>528</duration>
@@ -449,7 +449,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-23">
+						<file id="file-41">
 							<name>CMP_ZCAM0050-2_v004.3478.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-2/CMP_ZCAM0050-2_v004/CMP_ZCAM0050-2_v004.3478.png</pathurl>
 							<rate>
@@ -502,8 +502,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-30">
-						<masterclipid>masterclip-22</masterclipid>
+					<clipitem id="clipitem-54">
+						<masterclipid>masterclip-40</masterclipid>
 						<name>Monkeys_exploring_left</name>
 						<enabled>TRUE</enabled>
 						<duration>13440</duration>
@@ -518,7 +518,7 @@
 						<pproTicksIn>12450755116800</pproTicksIn>
 						<pproTicksOut>26766157017600</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-22"/>
+						<file id="file-40"/>
 						<filter>
 							<effect>
 								<name>Basic Motion</name>
@@ -586,8 +586,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-31">
-						<masterclipid>masterclip-24</masterclipid>
+					<clipitem id="clipitem-55">
+						<masterclipid>masterclip-42</masterclipid>
 						<name>Monkeys run back inside</name>
 						<enabled>TRUE</enabled>
 						<duration>1346</duration>
@@ -604,7 +604,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-24">
+						<file id="file-42">
 							<name>CMP_ZCAM0054_v002.6591.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0054/CMP_ZCAM0054_v002/Prerenders/CMP_ZCAM0054_v002.6591.png</pathurl>
 							<rate>
@@ -657,8 +657,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-32">
-						<masterclipid>masterclip-25</masterclipid>
+					<clipitem id="clipitem-56">
+						<masterclipid>masterclip-43</masterclipid>
 						<name>Monkeys exploring left</name>
 						<enabled>TRUE</enabled>
 						<duration>5159</duration>
@@ -675,7 +675,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-25">
+						<file id="file-43">
 							<name>CMP_JS2__005_v001_right.1059.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2_005/CMP_JS2_005_v001/render/render/right/CMP_JS2__005_v001_right.1059.png</pathurl>
 							<rate>
@@ -775,8 +775,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-33">
-						<masterclipid>masterclip-26</masterclipid>
+					<clipitem id="clipitem-57">
+						<masterclipid>masterclip-44</masterclipid>
 						<name>Monkey left behind in cage</name>
 						<enabled>TRUE</enabled>
 						<duration>622</duration>
@@ -793,7 +793,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-26">
+						<file id="file-44">
 							<name>CMP_ZCAM0050-3_v003.5554.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-3/CMP_ZCAM0050-3_v003/Prerenders/CMP_ZCAM0050-3_v003.5554.png</pathurl>
 							<rate>
@@ -846,8 +846,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-34">
-						<masterclipid>masterclip-27</masterclipid>
+					<clipitem id="clipitem-58">
+						<masterclipid>masterclip-45</masterclipid>
 						<name>Monkey jumps onto plank left</name>
 						<enabled>TRUE</enabled>
 						<duration>3199</duration>
@@ -864,7 +864,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-27">
+						<file id="file-45">
 							<name>CMP_JS2D1S3_v001_right.3000.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2D1S3/CMP_JS2D1S3_v001/Prerenders/Right/CMP_JS2D1S3_v001_right.3000.png</pathurl>
 							<rate>
@@ -1001,8 +1001,8 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="47" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-35">
-						<masterclipid>masterclip-28</masterclipid>
+					<clipitem id="clipitem-59">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>Logo Intro</name>
 						<enabled>TRUE</enabled>
 						<duration>899</duration>
@@ -1019,7 +1019,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-28">
+						<file id="file-46">
 							<name>logo_swipe/logo.aep</name>
 							<pathurl>file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/logo.aep</pathurl>
 							<rate>
@@ -1094,8 +1094,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-36">
-						<masterclipid>masterclip-29</masterclipid>
+					<clipitem id="clipitem-60">
+						<masterclipid>masterclip-47</masterclipid>
 						<name>Chyron 01</name>
 						<enabled>TRUE</enabled>
 						<duration>325</duration>
@@ -1112,7 +1112,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-29">
+						<file id="file-47">
 							<name>01_root/CMP_graphics_v002.aep</name>
 							<pathurl>file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/__Project%20Files/After%20Effects/CMP_graphics_v002.aep</pathurl>
 							<rate>
@@ -1165,8 +1165,8 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-37">
-						<masterclipid>masterclip-30</masterclipid>
+					<clipitem id="clipitem-61">
+						<masterclipid>masterclip-48</masterclipid>
 						<name>Chyron 02</name>
 						<enabled>TRUE</enabled>
 						<duration>177</duration>
@@ -1183,7 +1183,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-30">
+						<file id="file-48">
 							<name>02_root/CMP_graphics_v002.aep</name>
 							<pathurl>file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/__Project%20Files/After%20Effects/CMP_graphics_v002.aep</pathurl>
 							<rate>
@@ -1236,8 +1236,8 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-38">
-						<masterclipid>masterclip-31</masterclipid>
+					<clipitem id="clipitem-62">
+						<masterclipid>masterclip-49</masterclipid>
 						<name>Cage_Door_Opens_right</name>
 						<enabled>TRUE</enabled>
 						<duration>3620</duration>
@@ -1254,7 +1254,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-31">
+						<file id="file-49">
 							<name>CMP_JS3_000_v001_left.0001.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS3_000/CMP_JS3_000_v001/render/left/CMP_JS3_000_v001_left.0001.png</pathurl>
 							<rate>
@@ -1354,8 +1354,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-39">
-						<masterclipid>masterclip-32</masterclipid>
+					<clipitem id="clipitem-63">
+						<masterclipid>masterclip-50</masterclipid>
 						<name>Cage_Shot_2_right</name>
 						<enabled>TRUE</enabled>
 						<duration>13440</duration>
@@ -1372,7 +1372,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-32">
+						<file id="file-50">
 							<name>Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
 							<pathurl>file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</pathurl>
 							<rate>
@@ -1479,8 +1479,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-40">
-						<masterclipid>masterclip-32</masterclipid>
+					<clipitem id="clipitem-64">
+						<masterclipid>masterclip-50</masterclipid>
 						<name>Monkeys_exploring_right</name>
 						<enabled>TRUE</enabled>
 						<duration>13440</duration>
@@ -1495,7 +1495,7 @@
 						<pproTicksIn>12450755116800</pproTicksIn>
 						<pproTicksOut>26766157017600</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-32"/>
+						<file id="file-50"/>
 						<filter>
 							<effect>
 								<name>Basic Motion</name>
@@ -1563,8 +1563,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-41">
-						<masterclipid>masterclip-33</masterclipid>
+					<clipitem id="clipitem-65">
+						<masterclipid>masterclip-51</masterclipid>
 						<name>Monkeys exploring right</name>
 						<enabled>TRUE</enabled>
 						<duration>5159</duration>
@@ -1581,7 +1581,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-33">
+						<file id="file-51">
 							<name>CMP_JS2__005_v001_left.1059.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2_005/CMP_JS2_005_v001/render/render/left/CMP_JS2__005_v001_left.1059.png</pathurl>
 							<rate>
@@ -1681,8 +1681,8 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-42">
-						<masterclipid>masterclip-34</masterclipid>
+					<clipitem id="clipitem-66">
+						<masterclipid>masterclip-52</masterclipid>
 						<name>Monkey jumps onto plank right</name>
 						<enabled>TRUE</enabled>
 						<duration>3199</duration>
@@ -1699,7 +1699,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-34">
+						<file id="file-52">
 							<name>CMP_JS2D1S3_v001_left.3000.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2D1S3/CMP_JS2D1S3_v001/Prerenders/Left/CMP_JS2D1S3_v001_left.3000.png</pathurl>
 							<rate>
@@ -1858,8 +1858,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-43">
-						<masterclipid>masterclip-35</masterclipid>
+					<clipitem id="clipitem-67">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>Project Chimps logo</name>
 						<enabled>TRUE</enabled>
 						<duration>1294705</duration>
@@ -1876,7 +1876,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-35">
+						<file id="file-53">
 							<name>Project-Chimps-logo.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/Project-Chimps-logo.png</pathurl>
 							<rate>
@@ -1929,8 +1929,8 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-44">
-						<masterclipid>masterclip-35</masterclipid>
+					<clipitem id="clipitem-68">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>Project Chimps logo</name>
 						<enabled>TRUE</enabled>
 						<duration>1294705</duration>
@@ -1945,7 +1945,7 @@
 						<pproTicksIn>914914371571200</pproTicksIn>
 						<pproTicksOut>914956749907200</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-35"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -1966,8 +1966,8 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-45">
-						<masterclipid>masterclip-35</masterclipid>
+					<clipitem id="clipitem-69">
+						<masterclipid>masterclip-53</masterclipid>
 						<name>Project Chimps logo</name>
 						<enabled>TRUE</enabled>
 						<duration>1294705</duration>
@@ -1982,7 +1982,7 @@
 						<pproTicksIn>914956749907200</pproTicksIn>
 						<pproTicksOut>915338154931200</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-35"/>
+						<file id="file-53"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2025,8 +2025,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-46">
-						<masterclipid>masterclip-28</masterclipid>
+					<clipitem id="clipitem-70">
+						<masterclipid>masterclip-46</masterclipid>
 						<name>C1 Logo</name>
 						<enabled>TRUE</enabled>
 						<duration>899</duration>
@@ -2041,7 +2041,7 @@
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>720431712000</pproTicksOut>
 						<alphatype>none</alphatype>
-						<file id="file-28"/>
+						<file id="file-46"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2248,8 +2248,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-47" premiereChannelType="adaptive">
-						<masterclipid>masterclip-36</masterclipid>
+					<clipitem id="clipitem-71" premiereChannelType="adaptive">
+						<masterclipid>masterclip-54</masterclipid>
 						<name>Chimps_Mix3_o2a.wav</name>
 						<enabled>TRUE</enabled>
 						<duration>20379</duration>
@@ -2263,7 +2263,7 @@
 						<out>7519</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>63737014168800</pproTicksOut>
-						<file id="file-36">
+						<file id="file-54">
 							<name>Chimps_Mix3_o2a.wav</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/3.Audio/Chimps_Mix3_o2a.wav</pathurl>
 							<rate>
@@ -2338,8 +2338,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-48" premiereChannelType="adaptive">
-						<masterclipid>masterclip-36</masterclipid>
+					<clipitem id="clipitem-72" premiereChannelType="adaptive">
+						<masterclipid>masterclip-54</masterclipid>
 						<name>Chimps_Mix3_o2a.wav</name>
 						<enabled>TRUE</enabled>
 						<duration>20379</duration>
@@ -2353,7 +2353,7 @@
 						<out>20379</out>
 						<pproTicksIn>75230022067200</pproTicksIn>
 						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-36"/>
+						<file id="file-54"/>
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>

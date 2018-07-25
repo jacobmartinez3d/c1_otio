@@ -3,31 +3,30 @@ import logo from "./logo.svg";
 import "./App.css";
 import { Table } from "reactstrap";
 // import { CSVLink, CSVDownload } from "react-csv";
-// const fcpxml = "./OTIO/timeline.xml";
+const path_to_fcpxml = "./OTIO/timeline.xml";
 var sync_fcpxml, otio_json;
 try {
   sync_fcpxml = require("./OTIO/timeline.xml");
   otio_json = require("./OTIO/timeline.json");
 } catch (err) {
-  sync_fcpxml = "test";
-  otio_json = "test2";
+  console.warn(err)
 }
 
 class App extends React.Component {
-  constructor(props) {
+    constructor(props) {
     super(props);
     this.state = {
       button_label: "Build Spreadsheet",
       timeline: null,
       shotLog: null,
-      fcpxml: sync_fcpxml,
+      fcpxml: path_to_fcpxml,
       // set state to the required file to detect changes (this is the beauty of react!)
       sync_fcpxml: sync_fcpxml || "jacob"
     };
   }
   componentDidMount() {
-    var result = this.syncTimeline(this.state.fcpxml);
-    console.log("RESULT from flask:", result);
+    this.syncTimeline(this.state.fcpxml);
+    // console.log("RESULT from flask:", result);
     this.setState({
       shotLog: this.createShotLog()
     });
@@ -39,8 +38,8 @@ class App extends React.Component {
       headers: {
         Accept: "application/json",
         "Content-Type": "application/json",
-        mode: "no-cors"
-        // "Content-Length": data.length
+        mode: "no-cors",
+        "Content-Length": data.length
       },
       body: data
     })
@@ -63,19 +62,25 @@ class App extends React.Component {
           // Video Clips
           track.children.forEach((clip, j) => {
             if (clip.OTIO_SCHEMA === "Clip.1") {
-              // console.warn(clip);
+              let edit_in = clip.source_range.start_time.value
+              let edit_out = clip.source_range.start_time.value + clip.source_range.duration.value
+              let source_duration = clip.media_reference.available_range.duration.value
+              let source_framerate = clip.media_reference.available_range.duration.rate
+              console.warn("clip:\n\n", clip);
               csvData.push([
                 // 0: Name
-                clip.name.split(".")[0],
-                // 1: Source Duration
-                clip.media_reference.available_range.duration.value,
-                // 2: Edit Duration
+                clip.name + " (" + source_framerate + "fps)",
+                // 1: Edit In
+                edit_in,
+                // 2: Edit Out
+                edit_out,
+                // 3: Head
+                edit_in - 240 < 0? 0:edit_in - 240,
+                // 4. Tail
+                edit_out + 240 > source_duration? source_duration:edit_out + 240,
+                // 5: Edit Duration
                 clip.source_range.duration.value,
-                // 3: Edit In
-                clip.source_range.start_time.value,
-                // 4: Edit Out
-                clip.source_range.start_time.value + clip.source_range.duration.value,
-                // 5: VFX Notes
+                // 6: VFX Notes
                 clip.markers.map((marker, k) => {
                   var result;
                   if (marker.name && marker.marked_range.duration.value < 1) {
@@ -93,7 +98,7 @@ class App extends React.Component {
                   }
                   return result;
                 }),
-                // 6: URL
+                // 7: URL
                 clip.media_reference.target_url
               ]);
             }
@@ -101,7 +106,7 @@ class App extends React.Component {
         }
       });
     } catch (err) {
-      console.warn(err);
+      // console.warn(err);
     }
     return csvData;
   }
@@ -116,7 +121,7 @@ class App extends React.Component {
           <h1 className="App-title">C1 Timeline</h1>
         </header>
         <p>
-          {this.state.fcpxml && this.state.fcpxml}
+          {this.state.synced_fcpxml && this.state.synced_fcpxml}
         </p>
 
         {this.state.shotLog &&
@@ -124,10 +129,11 @@ class App extends React.Component {
             <thead>
               <tr>
                 <th>SHOT</th>
-                <th>Source Duration</th>
-                <th>Edit Duration</th>
                 <th>Edit In</th>
                 <th>Edit Out</th>
+                <th><i>(Head)</i></th>
+                <th><i>(Tail)</i></th>
+                <th>Edit Duration</th>
                 <th>VFX Notes</th>
                 <th>Source Url</th>
               </tr>
@@ -146,16 +152,19 @@ class App extends React.Component {
                       {shot[2]}
                     </th>
                     <th>
-                      {shot[3]}
+                      <i>({shot[3]})</i>
                     </th>
                     <th>
-                      {shot[4]}
+                      <i>({shot[4]})</i>
                     </th>
                     <th>
                       {shot[5]}
                     </th>
                     <th>
                       {shot[6]}
+                    </th>
+                    <th>
+                      {shot[7]}
                     </th>
                   </tr>
                 );
