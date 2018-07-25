@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmeml>
 <xmeml version="4">
-	<sequence id="sequence-12" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.446360141039" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="161190238809600" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="1.6865673041894191" AM.TrackVScrollPosition="0" AM.TrackScrollPosition="0" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="5760" MZ.Sequence.PreviewFrameSizeWidth="5760" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1128679492" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets\SequencePreview\9678af98-a7b7-4bdb-b477-7ac9c8df4a4e\Quicktime GoPro CineForm (YUV 10-bit).epr" MZ.Sequence.PreviewUseMaxRenderQuality="true" MZ.Sequence.PreviewUseMaxBitDepth="true" MZ.Sequence.EditingModeGUID="9678af98-a7b7-4bdb-b477-7ac9c8df4a4e" MZ.Sequence.VideoTimeDisplayFormat="103" MZ.WorkOutPoint="161190238809600" MZ.WorkInPoint="0" explodedTracks="true">
-		<uuid>a4f55bfb-e407-48f7-8a99-015559729c9c</uuid>
+	<sequence id="sequence-2" TL.SQAudioVisibleBase="0" TL.SQVideoVisibleBase="0" TL.SQVisibleBaseTime="0" TL.SQAVDividerPosition="0.446360141039" TL.SQHideShyTracks="0" TL.SQHeaderWidth="236" Monitor.ProgramZoomOut="25401600000000" Monitor.ProgramZoomIn="0" TL.SQTimePerPixel="0.013570146707390868" AM.TrackVScrollPosition="0" AM.TrackScrollPosition="0" MZ.EditLine="0" MZ.Sequence.PreviewFrameSizeHeight="5760" MZ.Sequence.PreviewFrameSizeWidth="5760" MZ.Sequence.AudioTimeDisplayFormat="200" MZ.Sequence.PreviewRenderingClassID="1297106761" MZ.Sequence.PreviewRenderingPresetCodec="1128679492" MZ.Sequence.PreviewRenderingPresetPath="EncoderPresets\SequencePreview\9678af98-a7b7-4bdb-b477-7ac9c8df4a4e\Quicktime GoPro CineForm (YUV 10-bit).epr" MZ.Sequence.PreviewUseMaxRenderQuality="true" MZ.Sequence.PreviewUseMaxBitDepth="true" MZ.Sequence.EditingModeGUID="9678af98-a7b7-4bdb-b477-7ac9c8df4a4e" MZ.Sequence.VideoTimeDisplayFormat="103" MZ.WorkOutPoint="161190238809600" MZ.WorkInPoint="0" MZ.ZeroPoint="0" explodedTracks="true">
+		<uuid>4adf80d3-44de-47c9-aee6-0c845083d389</uuid>
 		<duration>19018</duration>
 		<rate>
 			<timebase>30</timebase>
 			<ntsc>TRUE</ntsc>
 		</rate>
-		<name>Chimp_Final Cut_SWAPS_6k_EDIT CHANGE</name>
+		<name>050_Chimps_CMP</name>
 		<media>
 			<video>
 				<format>
@@ -45,10 +45,10 @@
 						<colordepth>24</colordepth>
 					</samplecharacteristics>
 				</format>
-				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="47" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-1254">
-						<masterclipid>masterclip-267</masterclipid>
-						<name>CMP_ZCAM0049_v004.5834.png</name>
+				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="87" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
+					<clipitem id="clipitem-25">
+						<masterclipid>masterclip-19</masterclipid>
+						<name>Establishing Shot</name>
 						<enabled>TRUE</enabled>
 						<duration>3166</duration>
 						<rate>
@@ -64,7 +64,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-267">
+						<file id="file-19">
 							<name>CMP_ZCAM0049_v004.5834.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0049/CMP_ZCAM0049_v004/Prerenders/CMP_ZCAM0049_v004.5834.png</pathurl>
 							<rate>
@@ -117,9 +117,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1255">
-						<masterclipid>masterclip-268</masterclipid>
-						<name>CMP_ZCAM0050-1_v003.0001.png</name>
+					<clipitem id="clipitem-26">
+						<masterclipid>masterclip-20</masterclipid>
+						<name>Cage Shot 1</name>
 						<enabled>TRUE</enabled>
 						<duration>3502</duration>
 						<rate>
@@ -135,7 +135,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-268">
+						<file id="file-20">
 							<name>CMP_ZCAM0050-1_v003.0001.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-1/CMP_ZCAM0050-1_V004/Prerenders/CMP_ZCAM0050-1_v003.0001.png</pathurl>
 							<rate>
@@ -188,9 +188,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1256">
-						<masterclipid>masterclip-269</masterclipid>
-						<name>CMP_JS3_000_v001_right.0001.png</name>
+					<clipitem id="clipitem-27">
+						<masterclipid>masterclip-21</masterclipid>
+						<name>Cage Door Opens_left</name>
 						<enabled>TRUE</enabled>
 						<duration>3620</duration>
 						<rate>
@@ -206,7 +206,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-269">
+						<file id="file-21">
 							<name>CMP_JS3_000_v001_right.0001.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS3_000/CMP_JS3_000_v001/render/right/CMP_JS3_000_v001_right.0001.png</pathurl>
 							<rate>
@@ -306,11 +306,11 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1257">
-						<masterclipid>masterclip-270</masterclipid>
-						<name>Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
+					<clipitem id="clipitem-28">
+						<masterclipid>masterclip-22</masterclipid>
+						<name>Cage_Shot_2_left</name>
 						<enabled>TRUE</enabled>
-						<duration>13439</duration>
+						<duration>13440</duration>
 						<rate>
 							<timebase>30</timebase>
 							<ntsc>TRUE</ntsc>
@@ -321,21 +321,21 @@
 						<out>1468</out>
 						<pproTicksIn>9094390905600</pproTicksIn>
 						<pproTicksOut>12442279449600</pproTicksOut>
-						<alphatype>straight</alphatype>
+						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-270">
+						<file id="file-22">
 							<name>Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
 							<pathurl>file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</pathurl>
 							<rate>
-								<timebase>29</timebase>
-								<ntsc>FALSE</ntsc>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
 							</rate>
 							<duration>13440</duration>
 							<timecode>
 								<rate>
-									<timebase>29</timebase>
-									<ntsc>FALSE</ntsc>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
 								</rate>
 								<string>00:00:00:00</string>
 								<frame>0</frame>
@@ -345,8 +345,8 @@
 								<video>
 									<samplecharacteristics>
 										<rate>
-											<timebase>29</timebase>
-											<ntsc>FALSE</ntsc>
+											<timebase>30</timebase>
+											<ntsc>TRUE</ntsc>
 										</rate>
 										<width>4096</width>
 										<height>2048</height>
@@ -431,9 +431,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1258">
-						<masterclipid>masterclip-271</masterclipid>
-						<name>CMP_ZCAM0050-2_v004.3478.png</name>
+					<clipitem id="clipitem-29">
+						<masterclipid>masterclip-23</masterclipid>
+						<name>Monkeys exiting for first time</name>
 						<enabled>TRUE</enabled>
 						<duration>528</duration>
 						<rate>
@@ -449,7 +449,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-271">
+						<file id="file-23">
 							<name>CMP_ZCAM0050-2_v004.3478.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-2/CMP_ZCAM0050-2_v004/CMP_ZCAM0050-2_v004.3478.png</pathurl>
 							<rate>
@@ -502,11 +502,11 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1259">
-						<masterclipid>masterclip-270</masterclipid>
-						<name>Pano-R_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
+					<clipitem id="clipitem-30">
+						<masterclipid>masterclip-22</masterclipid>
+						<name>Monkeys_exploring_left</name>
 						<enabled>TRUE</enabled>
-						<duration>13439</duration>
+						<duration>13440</duration>
 						<rate>
 							<timebase>30</timebase>
 							<ntsc>TRUE</ntsc>
@@ -517,8 +517,8 @@
 						<out>3158</out>
 						<pproTicksIn>12450755116800</pproTicksIn>
 						<pproTicksOut>26766157017600</pproTicksOut>
-						<alphatype>straight</alphatype>
-						<file id="file-270"/>
+						<alphatype>none</alphatype>
+						<file id="file-22"/>
 						<filter>
 							<effect>
 								<name>Basic Motion</name>
@@ -586,9 +586,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1260">
-						<masterclipid>masterclip-272</masterclipid>
-						<name>CMP_ZCAM0054_v002.6591.png</name>
+					<clipitem id="clipitem-31">
+						<masterclipid>masterclip-24</masterclipid>
+						<name>Monkeys run back inside</name>
 						<enabled>TRUE</enabled>
 						<duration>1346</duration>
 						<rate>
@@ -604,7 +604,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-272">
+						<file id="file-24">
 							<name>CMP_ZCAM0054_v002.6591.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0054/CMP_ZCAM0054_v002/Prerenders/CMP_ZCAM0054_v002.6591.png</pathurl>
 							<rate>
@@ -657,9 +657,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1261">
-						<masterclipid>masterclip-273</masterclipid>
-						<name>CMP_JS2__005_v001_right.1059.png</name>
+					<clipitem id="clipitem-32">
+						<masterclipid>masterclip-25</masterclipid>
+						<name>Monkeys exploring left</name>
 						<enabled>TRUE</enabled>
 						<duration>5159</duration>
 						<rate>
@@ -675,7 +675,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-273">
+						<file id="file-25">
 							<name>CMP_JS2__005_v001_right.1059.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2_005/CMP_JS2_005_v001/render/render/right/CMP_JS2__005_v001_right.1059.png</pathurl>
 							<rate>
@@ -775,9 +775,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1262">
-						<masterclipid>masterclip-274</masterclipid>
-						<name>CMP_ZCAM0050-3_v003.5554.png</name>
+					<clipitem id="clipitem-33">
+						<masterclipid>masterclip-26</masterclipid>
+						<name>Monkey left behind in cage</name>
 						<enabled>TRUE</enabled>
 						<duration>622</duration>
 						<rate>
@@ -793,7 +793,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-274">
+						<file id="file-26">
 							<name>CMP_ZCAM0050-3_v003.5554.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_ZCAM0050-3/CMP_ZCAM0050-3_v003/Prerenders/CMP_ZCAM0050-3_v003.5554.png</pathurl>
 							<rate>
@@ -846,9 +846,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1263">
-						<masterclipid>masterclip-275</masterclipid>
-						<name>CMP_JS2D1S3_v001_right.3000.png</name>
+					<clipitem id="clipitem-34">
+						<masterclipid>masterclip-27</masterclipid>
+						<name>Monkey jumps onto plank left</name>
 						<enabled>TRUE</enabled>
 						<duration>3199</duration>
 						<rate>
@@ -864,7 +864,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-275">
+						<file id="file-27">
 							<name>CMP_JS2D1S3_v001_right.3000.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2D1S3/CMP_JS2D1S3_v001/Prerenders/Right/CMP_JS2D1S3_v001_right.3000.png</pathurl>
 							<rate>
@@ -1001,9 +1001,9 @@
 					<locked>FALSE</locked>
 				</track>
 				<track TL.SQTrackShy="0" TL.SQTrackExpandedHeight="47" TL.SQTrackExpanded="0" MZ.TrackTargeted="1">
-					<clipitem id="clipitem-1264">
-						<masterclipid>masterclip-276</masterclipid>
-						<name>logo_swipe/logo.aep</name>
+					<clipitem id="clipitem-35">
+						<masterclipid>masterclip-28</masterclipid>
+						<name>Logo Intro</name>
 						<enabled>TRUE</enabled>
 						<duration>899</duration>
 						<rate>
@@ -1016,10 +1016,10 @@
 						<out>85</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>720431712000</pproTicksOut>
-						<alphatype>straight</alphatype>
+						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-276">
+						<file id="file-28">
 							<name>logo_swipe/logo.aep</name>
 							<pathurl>file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/logo.aep</pathurl>
 							<rate>
@@ -1094,9 +1094,9 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-1265">
-						<masterclipid>masterclip-277</masterclipid>
-						<name>01_root/CMP_graphics_v002.aep</name>
+					<clipitem id="clipitem-36">
+						<masterclipid>masterclip-29</masterclipid>
+						<name>Chyron 01</name>
 						<enabled>TRUE</enabled>
 						<duration>325</duration>
 						<rate>
@@ -1109,10 +1109,10 @@
 						<out>325</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>2754591840000</pproTicksOut>
-						<alphatype>straight</alphatype>
+						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-277">
+						<file id="file-29">
 							<name>01_root/CMP_graphics_v002.aep</name>
 							<pathurl>file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/__Project%20Files/After%20Effects/CMP_graphics_v002.aep</pathurl>
 							<rate>
@@ -1165,9 +1165,9 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1266">
-						<masterclipid>masterclip-278</masterclipid>
-						<name>02_root/CMP_graphics_v002.aep</name>
+					<clipitem id="clipitem-37">
+						<masterclipid>masterclip-30</masterclipid>
+						<name>Chyron 02</name>
 						<enabled>TRUE</enabled>
 						<duration>177</duration>
 						<rate>
@@ -1180,10 +1180,10 @@
 						<out>177</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>1500193094400</pproTicksOut>
-						<alphatype>straight</alphatype>
+						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-278">
+						<file id="file-30">
 							<name>02_root/CMP_graphics_v002.aep</name>
 							<pathurl>file://Gladiator/hd/Departments/_Post/__Projects/033_Chimps_CMP/__Project%20Files/After%20Effects/CMP_graphics_v002.aep</pathurl>
 							<rate>
@@ -1236,9 +1236,9 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1267">
-						<masterclipid>masterclip-279</masterclipid>
-						<name>CMP_JS3_000_v001_left.0001.png</name>
+					<clipitem id="clipitem-38">
+						<masterclipid>masterclip-31</masterclipid>
+						<name>Cage_Door_Opens_right</name>
 						<enabled>TRUE</enabled>
 						<duration>3620</duration>
 						<rate>
@@ -1254,7 +1254,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-279">
+						<file id="file-31">
 							<name>CMP_JS3_000_v001_left.0001.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS3_000/CMP_JS3_000_v001/render/left/CMP_JS3_000_v001_left.0001.png</pathurl>
 							<rate>
@@ -1354,11 +1354,11 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1268">
-						<masterclipid>masterclip-280</masterclipid>
-						<name>Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
+					<clipitem id="clipitem-39">
+						<masterclipid>masterclip-32</masterclipid>
+						<name>Cage_Shot_2_right</name>
 						<enabled>TRUE</enabled>
-						<duration>13439</duration>
+						<duration>13440</duration>
 						<rate>
 							<timebase>30</timebase>
 							<ntsc>TRUE</ntsc>
@@ -1369,21 +1369,21 @@
 						<out>1468</out>
 						<pproTicksIn>9094390905600</pproTicksIn>
 						<pproTicksOut>12442279449600</pproTicksOut>
-						<alphatype>straight</alphatype>
+						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-280">
+						<file id="file-32">
 							<name>Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
 							<pathurl>file://Gladiator/ssd/vrweb/CMP_PROD/CMP_JS2__002/CMP_JS2__002_js_v3_1_1_0_13440/Movies_CMP_JS2__002/Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</pathurl>
 							<rate>
-								<timebase>29</timebase>
-								<ntsc>FALSE</ntsc>
+								<timebase>30</timebase>
+								<ntsc>TRUE</ntsc>
 							</rate>
 							<duration>13440</duration>
 							<timecode>
 								<rate>
-									<timebase>29</timebase>
-									<ntsc>FALSE</ntsc>
+									<timebase>30</timebase>
+									<ntsc>TRUE</ntsc>
 								</rate>
 								<string>00:00:00:00</string>
 								<frame>0</frame>
@@ -1393,8 +1393,8 @@
 								<video>
 									<samplecharacteristics>
 										<rate>
-											<timebase>29</timebase>
-											<ntsc>FALSE</ntsc>
+											<timebase>30</timebase>
+											<ntsc>TRUE</ntsc>
 										</rate>
 										<width>4096</width>
 										<height>2048</height>
@@ -1479,11 +1479,11 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1269">
-						<masterclipid>masterclip-280</masterclipid>
-						<name>Pano-L_merged_CMP_JS2__002_CMP_JS2__002_0_13440.mov</name>
+					<clipitem id="clipitem-40">
+						<masterclipid>masterclip-32</masterclipid>
+						<name>Monkeys_exploring_right</name>
 						<enabled>TRUE</enabled>
-						<duration>13439</duration>
+						<duration>13440</duration>
 						<rate>
 							<timebase>30</timebase>
 							<ntsc>TRUE</ntsc>
@@ -1494,8 +1494,8 @@
 						<out>3158</out>
 						<pproTicksIn>12450755116800</pproTicksIn>
 						<pproTicksOut>26766157017600</pproTicksOut>
-						<alphatype>straight</alphatype>
-						<file id="file-280"/>
+						<alphatype>none</alphatype>
+						<file id="file-32"/>
 						<filter>
 							<effect>
 								<name>Basic Motion</name>
@@ -1563,9 +1563,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1270">
-						<masterclipid>masterclip-281</masterclipid>
-						<name>CMP_JS2__005_v001_left.1059.png</name>
+					<clipitem id="clipitem-41">
+						<masterclipid>masterclip-33</masterclipid>
+						<name>Monkeys exploring right</name>
 						<enabled>TRUE</enabled>
 						<duration>5159</duration>
 						<rate>
@@ -1581,7 +1581,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-281">
+						<file id="file-33">
 							<name>CMP_JS2__005_v001_left.1059.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2_005/CMP_JS2_005_v001/render/render/left/CMP_JS2__005_v001_left.1059.png</pathurl>
 							<rate>
@@ -1681,9 +1681,9 @@
 							<label2>Green</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1271">
-						<masterclipid>masterclip-282</masterclipid>
-						<name>CMP_JS2D1S3_v001_left.3000.png</name>
+					<clipitem id="clipitem-42">
+						<masterclipid>masterclip-34</masterclipid>
+						<name>Monkey jumps onto plank right</name>
 						<enabled>TRUE</enabled>
 						<duration>3199</duration>
 						<rate>
@@ -1699,7 +1699,7 @@
 						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-282">
+						<file id="file-34">
 							<name>CMP_JS2D1S3_v001_left.3000.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/6.VFX/CMP_JS2D1S3/CMP_JS2D1S3_v001/Prerenders/Left/CMP_JS2D1S3_v001_left.3000.png</pathurl>
 							<rate>
@@ -1858,9 +1858,9 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-1272">
-						<masterclipid>masterclip-283</masterclipid>
-						<name>Project-Chimps-logo.png</name>
+					<clipitem id="clipitem-43">
+						<masterclipid>masterclip-35</masterclipid>
+						<name>Project Chimps logo</name>
 						<enabled>TRUE</enabled>
 						<duration>1294705</duration>
 						<rate>
@@ -1873,16 +1873,17 @@
 						<out>107929</out>
 						<pproTicksIn>914456685542400</pproTicksIn>
 						<pproTicksOut>914770285228800</pproTicksOut>
-						<alphatype>straight</alphatype>
+						<alphatype>none</alphatype>
 						<pixelaspectratio>square</pixelaspectratio>
 						<anamorphic>FALSE</anamorphic>
-						<file id="file-283">
+						<file id="file-35">
 							<name>Project-Chimps-logo.png</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/4.Graphics/Logos/Project-Chimps-logo.png</pathurl>
 							<rate>
 								<timebase>30</timebase>
 								<ntsc>TRUE</ntsc>
 							</rate>
+							<duration>1294705</duration>
 							<timecode>
 								<rate>
 									<timebase>30</timebase>
@@ -1928,9 +1929,9 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1273">
-						<masterclipid>masterclip-283</masterclipid>
-						<name>Project-Chimps-logo.png</name>
+					<clipitem id="clipitem-44">
+						<masterclipid>masterclip-35</masterclipid>
+						<name>Project Chimps logo</name>
 						<enabled>TRUE</enabled>
 						<duration>1294705</duration>
 						<rate>
@@ -1943,8 +1944,8 @@
 						<out>107951</out>
 						<pproTicksIn>914914371571200</pproTicksIn>
 						<pproTicksOut>914956749907200</pproTicksOut>
-						<alphatype>straight</alphatype>
-						<file id="file-283"/>
+						<alphatype>none</alphatype>
+						<file id="file-35"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -1965,9 +1966,9 @@
 							<label2>Purple</label2>
 						</labels>
 					</clipitem>
-					<clipitem id="clipitem-1274">
-						<masterclipid>masterclip-283</masterclipid>
-						<name>Project-Chimps-logo.png</name>
+					<clipitem id="clipitem-45">
+						<masterclipid>masterclip-35</masterclipid>
+						<name>Project Chimps logo</name>
 						<enabled>TRUE</enabled>
 						<duration>1294705</duration>
 						<rate>
@@ -1980,8 +1981,8 @@
 						<out>107996</out>
 						<pproTicksIn>914956749907200</pproTicksIn>
 						<pproTicksOut>915338154931200</pproTicksOut>
-						<alphatype>straight</alphatype>
-						<file id="file-283"/>
+						<alphatype>none</alphatype>
+						<file id="file-35"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2024,9 +2025,9 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-1275">
-						<masterclipid>masterclip-276</masterclipid>
-						<name>logo_swipe/logo.aep</name>
+					<clipitem id="clipitem-46">
+						<masterclipid>masterclip-28</masterclipid>
+						<name>C1 Logo</name>
 						<enabled>TRUE</enabled>
 						<duration>899</duration>
 						<rate>
@@ -2039,8 +2040,8 @@
 						<out>85</out>
 						<pproTicksIn>0</pproTicksIn>
 						<pproTicksOut>720431712000</pproTicksOut>
-						<alphatype>straight</alphatype>
-						<file id="file-276"/>
+						<alphatype>none</alphatype>
+						<file id="file-28"/>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2225,7 +2226,7 @@
 						</channel>
 					</group>
 				</outputs>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
+				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Pan" currentExplodedTrackIndex="0" totalExplodedTrackCount="1" premiereTrackType="SixteenChannel">
 					<transitionitem>
 						<start>0</start>
 						<end>2</end>
@@ -2247,8 +2248,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-1276" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
+					<clipitem id="clipitem-47" premiereChannelType="adaptive">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>Chimps_Mix3_o2a.wav</name>
 						<enabled>TRUE</enabled>
 						<duration>20379</duration>
@@ -2259,10 +2260,10 @@
 						<start>-1</start>
 						<end>-1</end>
 						<in>0</in>
-						<out>7520</out>
+						<out>7519</out>
 						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284">
+						<pproTicksOut>63737014168800</pproTicksOut>
+						<file id="file-36">
 							<name>Chimps_Mix3_o2a.wav</name>
 							<pathurl>file://localhost/G%3a/Departments/_Post/__Projects/033_Chimps_CMP/3.Audio/Chimps_Mix3_o2a.wav</pathurl>
 							<rate>
@@ -2285,6 +2286,10 @@
 										<depth>16</depth>
 										<samplerate>48000</samplerate>
 									</samplecharacteristics>
+									<channelcount>1</channelcount>
+									<audiochannel>
+										<sourcechannel>1</sourcechannel>
+									</audiochannel>
 								</audio>
 							</media>
 						</file>
@@ -2292,69 +2297,6 @@
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2379,7 +2321,7 @@
 						<start>7515</start>
 						<end>7520</end>
 						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
+						<cutPointTicks>21189168000</cutPointTicks>
 						<rate>
 							<timebase>30</timebase>
 							<ntsc>TRUE</ntsc>
@@ -2396,8 +2338,8 @@
 							<reverse>FALSE</reverse>
 						</effect>
 					</transitionitem>
-					<clipitem id="clipitem-1277" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
+					<clipitem id="clipitem-48" premiereChannelType="adaptive">
+						<masterclipid>masterclip-36</masterclipid>
 						<name>Chimps_Mix3_o2a.wav</name>
 						<enabled>TRUE</enabled>
 						<duration>20379</duration>
@@ -2411,74 +2353,11 @@
 						<out>20379</out>
 						<pproTicksIn>75230022067200</pproTicksIn>
 						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
+						<file id="file-36"/>
 						<sourcetrack>
 							<mediatype>audio</mediatype>
 							<trackindex>1</trackindex>
 						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
 						<logginginfo>
 							<description></description>
 							<scene></scene>
@@ -2524,2198 +2403,6 @@
 					<locked>FALSE</locked>
 					<outputchannelindex>1</outputchannelindex>
 				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1278" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1279" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>2</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="2" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1280" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1281" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>3</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="3" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1282" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1283" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>4</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="4" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1284" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1285" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>5</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="5" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1286" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1287" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>6</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="6" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1288" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1289" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>7</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="7" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1290" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1291" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>8</outputchannelindex>
-				</track>
-				<track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="75" TL.SQTrackExpanded="0" MZ.TrackTargeted="0" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="8" totalExplodedTrackCount="9" premiereTrackType="SixteenChannel">
-					<transitionitem>
-						<start>0</start>
-						<end>2</end>
-						<alignment>start-black</alignment>
-						<cutPointTicks>0</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1292" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>0</in>
-						<out>7520</out>
-						<pproTicksIn>0</pproTicksIn>
-						<pproTicksOut>63745489836000</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1276</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1278</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1280</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1282</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1284</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1286</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1288</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1290</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1292</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>2</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>7515</start>
-						<end>7520</end>
-						<alignment>center</alignment>
-						<cutPointTicks>25427001600</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<clipitem id="clipitem-1293" premiereChannelType="adaptive">
-						<masterclipid>masterclip-284</masterclipid>
-						<name>Chimps_Mix3_o2a.wav</name>
-						<enabled>TRUE</enabled>
-						<duration>20379</duration>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<start>-1</start>
-						<end>-1</end>
-						<in>8876</in>
-						<out>20379</out>
-						<pproTicksIn>75230022067200</pproTicksIn>
-						<pproTicksOut>172725621868800</pproTicksOut>
-						<file id="file-284"/>
-						<sourcetrack>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-						</sourcetrack>
-						<link>
-							<linkclipref>clipitem-1277</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>1</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1279</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>2</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1281</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>3</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1283</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>4</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1285</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>5</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1287</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>6</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1289</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>7</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1291</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>8</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<link>
-							<linkclipref>clipitem-1293</linkclipref>
-							<mediatype>audio</mediatype>
-							<trackindex>9</trackindex>
-							<clipindex>4</clipindex>
-							<groupindex>1</groupindex>
-						</link>
-						<logginginfo>
-							<description></description>
-							<scene></scene>
-							<shottake></shottake>
-							<lognote></lognote>
-							<good></good>
-							<originalvideofilename></originalvideofilename>
-							<originalaudiofilename></originalaudiofilename>
-						</logginginfo>
-						<colorinfo>
-							<lut></lut>
-							<lut1></lut1>
-							<asc_sop></asc_sop>
-							<asc_sat></asc_sat>
-							<lut2></lut2>
-						</colorinfo>
-						<labels>
-							<label2>Caribbean</label2>
-						</labels>
-					</clipitem>
-					<transitionitem>
-						<start>19016</start>
-						<end>19018</end>
-						<alignment>end-black</alignment>
-						<cutPointTicks>16951334400</cutPointTicks>
-						<rate>
-							<timebase>30</timebase>
-							<ntsc>TRUE</ntsc>
-						</rate>
-						<effect>
-							<name>Cross Fade (+3dB)</name>
-							<effectid>KGAudioTransCrossFade3dB</effectid>
-							<effecttype>transition</effecttype>
-							<mediatype>audio</mediatype>
-							<wipecode>0</wipecode>
-							<wipeaccuracy>100</wipeaccuracy>
-							<startratio>0</startratio>
-							<endratio>1</endratio>
-							<reverse>FALSE</reverse>
-						</effect>
-					</transitionitem>
-					<enabled>TRUE</enabled>
-					<locked>FALSE</locked>
-					<outputchannelindex>9</outputchannelindex>
-				</track>
 			</audio>
 		</media>
 		<timecode>
@@ -4727,6 +2414,68 @@
 			<frame>0</frame>
 			<displayformat>NDF</displayformat>
 		</timecode>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>5795</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>5353</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>2801</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name>SEAM!!!</name>
+				<in>18867</in>
+				<out>19087</out>
+				<pproColor>4281740498</pproColor>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>2696</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>5399</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>456</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>126</in>
+				<out>-1</out>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name>GFX_  ID TAGS SECTION</name>
+				<in>6444</in>
+				<out>10568</out>
+				<pproColor>4281740498</pproColor>
+			</marker>
+			<marker>
+				<comment></comment>
+				<name></name>
+				<in>7595</in>
+				<out>-1</out>
+			</marker>
 			<marker>
 				<comment></comment>
 				<name>END of Offset KEYFRAMES</name>
@@ -4742,69 +2491,7 @@
 			<marker>
 				<comment></comment>
 				<name></name>
-				<in>5795</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name>GFX_  ID TAGS SECTION</name>
-				<in>6444</in>
-				<out>10568</out>
-				<pproColor>4281740498</pproColor>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>5399</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>2696</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>7595</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>126</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name>SEAM!!!</name>
-				<in>18867</in>
-				<out>19087</out>
-				<pproColor>4281740498</pproColor>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>2801</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
 				<in>5386</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>456</in>
-				<out>-1</out>
-			</marker>
-			<marker>
-				<comment></comment>
-				<name></name>
-				<in>5353</in>
 				<out>-1</out>
 			</marker>
 		<labels>
